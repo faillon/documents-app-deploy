@@ -34,7 +34,7 @@ There you must enter the following data and then click the Submit button.
 
 ![alt text](images/kafkaui_config.png)
 
-# Prometheus
+## Prometheus
 This project includes prometheus with spring boot actuator for monitoring the api. To use it go to http://localhost:9090/
 
 
