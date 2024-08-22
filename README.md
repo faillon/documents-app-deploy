@@ -1,7 +1,7 @@
 # documents-app-deploy
 Project for deploying the complete documents app. This project uses the following stack.
 
-![alt text](https://drive.google.com/file/d/1aRh7ktwzNopd16unUb3FcFnfJlWENm21/view?usp=sharing)
+![alt text](images/DocumentsAppStack.png)
 
 ## Installl
 
